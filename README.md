@@ -94,7 +94,7 @@ This API provides three essential functionalities for managing names:
     None
 
 ## Contributors
-    Aron Jay Tadina (tadinaaron)
+    Manny Hortizuela
 
 ## Contact Information
     Email: tadina.aronjay@gmail.com
