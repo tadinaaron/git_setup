@@ -1,3 +1,1 @@
-"# github_setup" 
-"# github_setup" 
-"# api_git" 
+"# git_setup" 
